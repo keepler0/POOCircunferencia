@@ -1,0 +1,12 @@
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Entidades\bin\Debug\POOCircunferencia.Entidades.dll
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Entidades\bin\Debug\POOCircunferencia.Entidades.pdb
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Entidades\obj\Debug\POOCircunferencia.Entidades.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Entidades\obj\Debug\POOCircunferencia.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Entidades\obj\Debug\POOCircunferencia.Entidades.dll
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Entidades\obj\Debug\POOCircunferencia.Entidades.pdb
+I:\MALETA\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Entidades\bin\Debug\POOCircunferencia.Entidades.dll
+I:\MALETA\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Entidades\bin\Debug\POOCircunferencia.Entidades.pdb
+I:\MALETA\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Entidades\obj\Debug\POOCircunferencia.Entidades.csproj.AssemblyReference.cache
+I:\MALETA\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Entidades\obj\Debug\POOCircunferencia.Entidades.csproj.CoreCompileInputs.cache
+I:\MALETA\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Entidades\obj\Debug\POOCircunferencia.Entidades.dll
+I:\MALETA\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Entidades\obj\Debug\POOCircunferencia.Entidades.pdb

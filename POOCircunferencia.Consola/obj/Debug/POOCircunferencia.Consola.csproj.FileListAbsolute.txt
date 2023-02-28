@@ -1,0 +1,12 @@
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Consola\bin\Debug\POOCircunferencia.Consola.exe.config
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Consola\bin\Debug\POOCircunferencia.Consola.exe
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Consola\bin\Debug\POOCircunferencia.Consola.pdb
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Consola\bin\Debug\POOCircunferencia.Entidades.dll
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Consola\bin\Debug\POOCircunferencia.Entidades.pdb
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Consola\obj\Debug\POOCircunferencia.Consola.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Consola\obj\Debug\POOCircunferencia.Consola.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Consola\obj\Debug\POOCircunferencia.Consola.csproj.CopyComplete
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Consola\obj\Debug\POOCircunferencia.Consola.exe
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Consola\obj\Debug\POOCircunferencia.Consola.pdb
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Consola\bin\Debug\POOCircunferencia.Datos.dll
+C:\Users\diego\source\repos\Ejercicios 8 Capas\POOCircunferencia\POOCircunferencia.Consola\bin\Debug\POOCircunferencia.Datos.pdb
